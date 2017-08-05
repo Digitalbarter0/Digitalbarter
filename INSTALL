@@ -1,0 +1,9 @@
+Building Barter
+
+See doc/readme-qt.rst for instructions on building Barter-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Barter.
+
+See doc/build-*.txt for instructions on building barterd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Barter.
